@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbd963094a425b88e6aae8672845132c42bf1879">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b4b021630d0a1c48a5b73dce5eb6f934bbf4fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/6d600a7ca78b54777792f5e4084707bbf007ea89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e13ba9e91b030e5ee30f7ef4d8f21165d0c00e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/5a3070b9bfdc2fffb5b9e71fc8e70f89fdcc14ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e81529c4448f56126507167a5fee511852ec5413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/536c8907e9999982cfa7519d09ccde2b4ed0123e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bed84864149d15e9c893b68ce9994fe6093cdbf4">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3f352a87a091f8caf3302f36196e8555edb2e37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/95c82e37ef27d7fc3688d4e319c70613ad0848dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fb2adcd44cb67ce88bcef32902961347288836b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/d0f43a44114c0c885502ebb38e17fbb6568f3feb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34423deca8c4726cf34878bf85bfe10a5293a269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/02ba590887b060facacf4e66bb08c9ce9067c4d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f5faddd813cff3b58d0e1c71d1f2d00e4a99770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c0a7925edd4c1a6ee31ec9fae37459ea91539af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/3395ca9eeedff5a2a3e67044a3d5794bea502d75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd07ab9de828b2de6c0622ef2a88b8cd53b6abdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.1.0_d7eeb065831b41c8029d9be7ce06e711350326f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/d7595d7e0da56bdf02f1029f7b7d5be53bd0ba13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1e965d3262e2b8e1abf30e4e688cb0dd3dc9f89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/4dbbfcd54ccf97fe5a9b9558f57b060fd6c7a90f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d9c48e9c3573b009c9795f20c91649f98c97e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/abb116b6c2f0ec519cc1cf5c6361298e0a503038/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec372d0bb360fd933a3cacf8fbc73ce415b1f5ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_addbace0c0e4a2c2f145a9514568950c8825ebf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/9a5a92b1a55bfd1652643282fe6b4464234cd9f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bdcc997b3bebf5a8115f636e1f97560b0c005f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_40bcd2df4b963f702a78f1d0b57f39bed741fe38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/6b4a8601759fec0ddcc7e0944e628dc44e58f5fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8935b7592e53316bfe65c7c4fd6fdd4ac7de021/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_abd214f9bc7c44f191d1956a2b8854568af48c10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/31fc2f766723daf533a997afbda64c5152d0d2aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de623c50832ccba7e232be929e6956b5353dac19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/90559e1ae0fedc45975f22bd5ffee3876fd49f98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff496f17210a8a7a4c001a0b3efc4d42aced5323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/3305a03f9b4571cfe306ccddc6eaf36707ab74c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17a248eb648660ba4194a34d54b6b1f33bfbdf9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/75ccf10a0688c24d25d8b10ae148b63600cafa34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86bd0101a6fe2380822a312041def56b5c89e56d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/396e33a43fc1b4ff23159d60dd5a6e41648e0c2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f404c0287d8f15b9d2fdded50138fefea4b87f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/79f75a4ade53b78d0e826d6ff2c7e5eb72da4d0c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa96caeaf2a21ecb69138ab55095cb4ef633aef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.gradle/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.7/ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1/kenburnsview-1.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ce4e8bba9e026dd29f8110b2f6bb1fc4ecbdd9b1">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/kenburnsview-1.0.7_e33dc78e691b6189f84bd5b49e92a10863db51c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/0b6cead2396c9cec5b971f4483160932d48da4f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34d83bfddb13f6ddd8fb67862861e4945e54789e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/40a462a5db12fae006e47c0c5eff43cec3ba2152/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d2e08f81338dde2ff81388d24ad22f6e6a97433/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/7b32a72a6eb5e41c398012e96c0f34a3cbffd037/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_84699d936898043c1a382bf96fed446223216536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sylvester/.android/build-cache/7c2ff064d24d318e3111433e31de634815e1b5b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/sylvester/Desktop/Android NanoDegree Projects/Sylvester NanoDegree Projects/capstone project/sylvesterfrancis/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0ec8a9bc363da9290e86e95b9eb1097a9be1990/classes.dex" />
+    </item>
+
+</items>
